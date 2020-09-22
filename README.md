@@ -8,7 +8,7 @@ OPTIGA™ Connect IoT consists of an eUICC including GSMA compliant
 eSIM operating system and pre-loaded bootstrap connectivity.
 
 
-## Key Features
+### Key Features and Benefits
 * Remote SIM provisioning compliant with GSMA SGP.02 V3.2
 * Compliant with 2G, 3G, 4G (LTE), CDMA, NB-IoT, CAT-M networks
 * Tata [1] connectivity bootstrap - worldwide coverage
@@ -20,7 +20,7 @@ eSIM operating system and pre-loaded bootstrap connectivity.
 * Common Criteria EAL5+ certified hardware
 * VQFN-8 package (MFF2)
 * Removable SIM and other packages on request
-## Application
+### Application
 * IoT end nodes and edge gateways
 * Smart Home (security, alarm, light-HVAC-Energy control)
 * iHealth monitoring
@@ -29,3 +29,15 @@ eSIM operating system and pre-loaded bootstrap connectivity.
 * Smart Energy (metering, storage, distribution)
 * Commercial telematics
 * GPS Tracker
+
+## Get Started
+### OPTIGA™ Connect IoT evaluation kit
+### Examples
+
+## Documentation
+
+## Contributing
+
+## License
+
+## Disclaimer
