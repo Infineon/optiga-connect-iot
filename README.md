@@ -34,6 +34,18 @@ eSIM operating system and pre-loaded bootstrap connectivity.
 ### OPTIGA™ Connect IoT evaluation kit
 ### Examples
 
+#### How to read out EID
+
+1)  SELECT ECASD: A0 00 00 05 59 10 10 FF FF FF FF 89 00 00 02 00
+->  00 A4 04 00 10 A0 00 00 05 59 10 10 FF FF FF FF 89 00 00 02 00 
+<- 90 00
+
+2) GET DATA Tag 5A, EID example= 89034011560010000000000000000121
+-> 80 CA 00 5A 12
+<- 5A 10 89 03 40 11 56 00 10 00 00 00 00 00 00 00 01 21 90 00
+
+
+
 ## Documentation
 
 ## Contributing
