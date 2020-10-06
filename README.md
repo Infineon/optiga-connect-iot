@@ -36,6 +36,9 @@ eSIM operating system and pre-loaded bootstrap connectivity.
 
 #### How to read out EID
 
+The EID or eUICC-ID is the unique identifier of an embedded Universal Integrated Circuit Card (eUICC). 
+One option to get the EID is to read it electronically by means of APDUs (Commands) via the ISO/IEC 7816-UART: 
+
 1)  SELECT ECASD: A0 00 00 05 59 10 10 FF FF FF FF 89 00 00 02 00<br>
 ->  00 A4 04 00 10 A0 00 00 05 59 10 10 FF FF FF FF 89 00 00 02 00<br> 
 <- 90 00
@@ -43,8 +46,6 @@ eSIM operating system and pre-loaded bootstrap connectivity.
 2) GET DATA Tag 5A, EID example= 89034011560010000000000000000121<br>
 -> 80 CA 00 5A 12<br>
 <- 5A 10 89 03 40 11 56 00 10 00 00 00 00 00 00 00 01 21 90 00<br>
-
-
 
 ## Documentation
 
