@@ -2,12 +2,12 @@
 
 ## Infineon eSIM IoT Solution
 
-<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-VQFN8.png" width="200">
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-VQFN8.png" width="200" title="OPTIGA Connect - VQFN8 package">
 
 OPTIGA™ Connect IoT is an embedded SIM (eUICC) turnkey solution that
 enables cellular connectivity at scale for IoT devices.
 
-<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-Logo.png" width="300">
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-Logo.png" width="300" title="OPTIGA Connect Iot - Solution Diagram">
 
 OPTIGA™ Connect IoT consists of an eUICC including GSMA compliant
 eSIM operating system and pre-loaded bootstrap connectivity.
