@@ -16,7 +16,7 @@ eSIM operating system and pre-loaded bootstrap connectivity.
 ### Key Features and Benefits
 * Remote SIM provisioning compliant with GSMA SGP.02 V3.2
 * Compliant with 2G, 3G, 4G (LTE), CDMA, NB-IoT, CAT-M networks
-* Tata [1] connectivity bootstrap - worldwide coverage
+* [Tata Communications] (https://www.tatacommunications.com/solutions/mobility-iot/internet-ofthings/esim/infineon-partnership/connectivity) bootstrap - worldwide coverage
 * Allows to accommodate multiple MNO profiles
 * OTA capable
 * 32-bit architecture based on Arm® SecurCore® SC300 enhanced by Infineon Technologies' cache and security technology
