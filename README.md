@@ -49,7 +49,7 @@ eSIM operating system and pre-loaded bootstrap connectivity.
 
 #### How to read out EID
 
-The EID or eUICC-ID is the unique identifier of an embedded Universal Integrated Circuit Card (eUICC).<br> 
+The EID or eUICC-ID is the unique identifier of an embedded Universal Integrated Circuit Card (eUICC)<br> 
 One option to get the EID is to read it electronically by means of Command-APDUs (Application Protocol Data Unit)<br> 
 via the ISO/IEC 7816-UART: 
 ``` markdown
@@ -64,7 +64,11 @@ via the ISO/IEC 7816-UART:
 
 ## Documentation
 
+For the Datasheet, Product Brief and the Quickstarter Guide please visit our [OPTIGA™ Connect IoT OC2321 product website](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-connect/optiga-connect-iot/)<br>
 
+* [DataSheet](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-connect/optiga-connect-iot/#!documents)
+* [Product Brief](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-connect/optiga-connect-iot/#!documents)
+* [Quickstarter Guide](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-connect/optiga-connect-iot/)
 
 ## Contributing
 
