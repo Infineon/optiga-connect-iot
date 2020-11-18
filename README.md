@@ -64,7 +64,7 @@ via the ISO/IEC 7816-UART:
 
 For reporting technical issues or proposing new features, please create a new issue.<br>
 
-Read more in the [Contributing Guide] (https://github.com/Infineon/optiga-connect-iot/blob/master/CONTRIBUTING.md)
+Read more in the [Contributing Guide](https://github.com/Infineon/optiga-connect-iot/blob/master/CONTRIBUTING.md)
 
 ## License
 
