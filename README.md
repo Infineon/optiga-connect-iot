@@ -64,11 +64,11 @@ via the ISO/IEC 7816-UART:
 
 ## Documentation
 
-For the Datasheet, Product Brief and the Quickstarter Guide please visit our [OPTIGA™ Connect IoT OC2321 product website](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-connect/optiga-connect-iot/)<br>
+For the Datasheet, Product Brief and a Quickstarter Guide please visit our [OPTIGA™ Connect IoT OC2321 product website](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-connect/optiga-connect-iot/)<br>
 
 * [DataSheet](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-connect/optiga-connect-iot/#!documents)
 * [Product Brief](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-connect/optiga-connect-iot/#!documents)
-* [Quickstarter Guide](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-connect/optiga-connect-iot/)
+* [Quickstarter Guide](https://www.infineon.com/dgdl/Infineon-Quick_Start_Guide_OPTIGA_Connect_IoT-AdditionalProductInformation-v01_00-EN.pdf?fileId=5546d46274cf54d50174da052db12212)
 
 ## Contributing
 
