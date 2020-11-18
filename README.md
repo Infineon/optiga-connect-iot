@@ -35,7 +35,13 @@ eSIM operating system and pre-loaded bootstrap connectivity.
 * Commercial telematics
 * GPS Tracker
 
-## Get Started
+## Table of Content
+  * [Getting Started](#getting-started)
+  * [Samples Kit](#samples-kit)
+  * [Documentation](#documentation)
+  * [Contributing](#contributing)
+
+## Getting Started
 
 ### OPTIGA™ Connect IoT evaluation kit
 
