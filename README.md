@@ -36,7 +36,9 @@ eSIM operating system and pre-loaded bootstrap connectivity.
 * GPS Tracker
 
 ## Get Started
+
 ### OPTIGA™ Connect IoT evaluation kit
+
 ### Examples
 
 #### How to read out EID
@@ -56,7 +58,13 @@ via the ISO/IEC 7816-UART:
 
 ## Documentation
 
+
+
 ## Contributing
+
+For reporting technical issues or proposing new features, please create a new issue.<br>
+
+Read more in the [Contributing Guide] (https://github.com/Infineon/optiga-connect-iot/blob/master/CONTRIBUTING.md)
 
 ## License
 
