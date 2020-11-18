@@ -65,6 +65,7 @@ via the ISO/IEC 7816-UART:
 ## Documentation
 
 For the Datasheet, Product Brief and a Quickstarter Guide please visit our [OPTIGA™ Connect IoT OC2321 product website](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-connect/optiga-connect-iot/#!documents)<br>
+Here the direct links to<br>
 
 * [DataSheet](https://www.infineon.com/dgdl/Infineon-Datasheet_OPTIGA_Connect_IoT-DataSheet-v01_00-EN.pdf?fileId=5546d462749a7c2d01749b3873b90f57)
 * [Product Brief](https://www.infineon.com/dgdl/Infineon-OPTIGA_Connect_IoT_OC2321-ProductBrief-v01_00-EN.pdf?fileId=5546d46272aa54c00172c1aa70304f10)
