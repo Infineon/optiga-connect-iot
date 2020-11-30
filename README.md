@@ -37,16 +37,16 @@ eSIM operating system and pre-loaded bootstrap connectivity.
 
 ## Table of Content
   * [Getting Started](#getting-started)
-  * [Samples Kit](#samples-kit)
   * [Documentation](#documentation)
   * [Contributing](#contributing)
 
 ## Getting Started
 
-### OPTIGA™ Connect IoT evaluation kit
+### OPTIGA™ Connect IoT Samples Kit
+picture of Samples Kit
 
-### Examples
-
+### OPTIGA™ Connect IoT Evaluation Kit
+picture of Evaluation Kit
 
 
 ## Documentation
@@ -61,6 +61,17 @@ Here the direct links to<br>
 ## Contributing
 
 For reporting technical issues or proposing new features, please create a new issue.<br>
+
+> Before submitting a new issue please be aware that OPTIGA™ Connect IoT is a solution with four major categories and 3 partners involved.
+
+
+
+Therefore please help us by linking your issues to these four major categories:
+
+* Hardware
+* Package
+* Software
+* Connectivity
 
 Read more in the [Contributing Guide](https://github.com/Infineon/optiga-connect-iot/blob/master/CONTRIBUTING.md)
 
