@@ -45,7 +45,9 @@ When starting to evaluate Infineons OPTIGA™ Connect IoT solution as a proposal
 1. Download the DataSheet
 2. Order the OPTIGA™ Connect IoT SAMPLE KIT
 3. In case you don't have a dedicated `Device` yet, get our OPTIGA™ Connect IoT Evaluation Board
-4. 
+4. Buy a miniPCIe modem of your choice and a LTE antenna. Ensure that the modem is capable to handle eUICCs!
+5. 
+6.
 
 ### OPTIGA™ Connect IoT SAMPLE KIT
 The kit comes with 7 pcs of OPTIGA™ Connect IoT with predefined dataplan working out of the box for instant trials.<br>
