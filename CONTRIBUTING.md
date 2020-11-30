@@ -10,7 +10,7 @@ File an issue to ask a question.
 
 ## How Can I Contribute?
 ### Report a Bug or Problem
-If you are facing an issue with the Blockchain Security 2Go starter kit cards please create a new issue. If you want to support bugs in the Android demo example or the python library please crate a new issue in the corresponding github repository.
+If you are facing an issue with the OPTIGA™ Connect IoT OC2321 solution please create a new issue.
 
 ### Suggest Enhancements
 If you want that the next generation of the starter kit has a certain feature please create a new issue. Such an enchancement could be a new command, other interfaces (e.g. USB), form factors, etc.
