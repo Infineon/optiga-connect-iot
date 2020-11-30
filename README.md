@@ -42,10 +42,10 @@ eSIM operating system and pre-loaded bootstrap connectivity.
 
 ## Getting Started
 When starting to evaluate Infineons OPTIGA™ Connect IoT solution as a proposal you might want to follow these steps:<br>
-1.
-2.
-3.
-4.
+1. Download the DataSheet
+2. Order the OPTIGA™ Connect IoT SAMPLE KIT
+3. In case you don't have a dedicated `Device` yet, order the ### OPTIGA™ Connect IoT Evaluation Board
+4. 
 
 ### OPTIGA™ Connect IoT SAMPLE KIT
 The kit comes with 7 pcs of OPTIGA™ Connect IoT with predefined dataplan working out of the box for instant trials.<br>
@@ -58,7 +58,7 @@ The kit comes with 7 pcs of OPTIGA™ Connect IoT with predefined dataplan worki
 
 tbd. picture of Samples Kit
 
-### OPTIGA™ Connect IoT Evaluation Kit
+### OPTIGA™ Connect IoT Evaluation Board
 picture of Evaluation Kit
 
 
