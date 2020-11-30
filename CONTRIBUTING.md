@@ -19,15 +19,8 @@ If you want that the next generation of the OPTIGA™ Connect IoT OC2321 solutio
 You know the answer to an open issue? Great! Please share your knowledge and help to resolve the issue.
 
 ### Discuss New Application Ideas
-You just have a great application idea of how to use the Blockchain Security 2Go cards?
-<!--Discuss it in the reddit channel [BlockS2Go](https://www.reddit.com/r/BlockS2Go/) and/or -->
-Let the community know and add it to the [ideas list](new_application_ideas.md). 
-
-### Realize New Applications
-You want to do something cool with the Blockchain Security 2Go starter kit, but you have no idea what to implement? Just have a look at the [ideas list](new_application_ideas.md), pick one idea and turn the idea into realization!
-
-### Report an Application 
-If you know a cool application that uses the Blockchain Security 2Go starterkit, please add it to the [Known Applications list](known_applications.md). 
+You just have a great application idea of how to use OPTIGA™ Connect IoT OC2321 solution?
+Let the community know and add a new issue. 
 
 ## Code of Conduct
 
