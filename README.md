@@ -102,7 +102,7 @@ Here the direct links to<br>
 
 ## Contributing
 
-For reporting `technical issues` or proposing `new features`, please create a new issue.<br>
+For reporting `technical issues` or proposing `new features`, please create a new [issue](https://github.com/Infineon/optiga-connect-iot/issues).<br>
 
 > Before considering submitting a new issue please check out the [OPTIGA™ Connect IoT - Wiki](https://github.com/Infineon/optiga-connect-iot/wiki)
 
