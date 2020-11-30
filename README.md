@@ -42,12 +42,13 @@ eSIM operating system and pre-loaded bootstrap connectivity.
 
 ## Getting Started
 When starting to evaluate Infineons OPTIGA™ Connect IoT solution as a proposal you might want to follow these steps:<br>
-1. Download the DataSheet
+1. Download the [DataSheet](https://www.infineon.com/dgdl/Infineon-Datasheet_OPTIGA_Connect_IoT-DataSheet-v01_00-EN.pdf?fileId=5546d462749a7c2d01749b3873b90f57)
 2. Order the OPTIGA™ Connect IoT SAMPLE KIT
 3. In case you don't have a dedicated `Device` yet, get our OPTIGA™ Connect IoT Evaluation Board
 4. Buy a miniPCIe modem of your choice and a LTE antenna. Ensure that the modem is capable to handle eUICCs!
-5. 
-6.
+5. If you don't want to solder the VQFN8 package or work with Smart Card readers consider getting our Card Adapter VQFN8 version
+6. In case you need adapter that fit in SIM sockets in combination with the Card Adapter VQFN8 we offer a SIM Cable Adapter Kit
+7. Download the [Quickstarter Guide](https://www.infineon.com/dgdl/Infineon-Quick_Start_Guide_OPTIGA_Connect_IoT-AdditionalProductInformation-v01_00-EN.pdf?
 
 ### OPTIGA™ Connect IoT SAMPLE KIT
 The kit comes with 7 pcs of OPTIGA™ Connect IoT with predefined dataplan working out of the box for instant trials.<br>
