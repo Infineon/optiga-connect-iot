@@ -41,17 +41,22 @@ eSIM operating system and pre-loaded bootstrap connectivity.
   * [Contributing](#contributing)
 
 ## Getting Started
-When starting to evaluate Infineons OPTIGA™ Connect IoT solution as a proposal you might want to follow these steps:
+When starting to evaluate Infineons OPTIGA™ Connect IoT solution as a proposal you might want to follow these steps:<br>
 1.
 2.
 3.
 4.
 
 ### OPTIGA™ Connect IoT SAMPLE KIT
-The kit comes with 7 pcs of OPTIGA™ Connect IoT with predefined dataplan working out of the box for instant trials
+The kit comes with 7 pcs of OPTIGA™ Connect IoT with predefined dataplan working out of the box for instant trials.<br>
 
+* 5 pcs VQFN-8/MFF2
+* 2 pcs ID1 Cards (multi form factor, 2FF, 3FF, 4FF)
+* 10 MB of connectivity
+* 6 month validity from first network connect on
+* 150 countries worldwide coverage (Americas, APAC and EMEA)
 
-picture of Samples Kit
+tbd. picture of Samples Kit
 
 ### OPTIGA™ Connect IoT Evaluation Kit
 picture of Evaluation Kit
