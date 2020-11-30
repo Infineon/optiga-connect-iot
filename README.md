@@ -70,9 +70,25 @@ Enables customer to verify/operate OPTIGA™ Connect IoT in combination with a c
 * Connects to host via 40-pin Raspberry Pi header or Micro-USB
 * Optional: Footprint to add OPTIGA™ Trust X/M
 
-
 tbd. picture of Evaluation Kit
 
+### Card Adapter V3.7 VQFN8
+
+In this configuration the card adapter is assembled with a<br>
+
+* VQFN-8 test socket
+* Jumper and test pins<br>
+
+tbd. picture of Card Adapter
+
+### SIM Cable Adapter Kit
+
+Add-on for Card Adapter V3.x<br>
+
+Allows to connect to 2FF, 3FF and 4FF SIM card holder<br>
+Includes 5 pcs. of adapters to be attached to Card Adapter V3.x<br>
+
+tbd. picture of SIM Adapter Kit
 
 ## Documentation
 
