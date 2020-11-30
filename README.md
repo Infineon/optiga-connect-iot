@@ -64,7 +64,9 @@ For reporting technical issues or proposing new features, please create a new is
 
 > Before submitting a new issue please be aware that OPTIGA™ Connect IoT is a solution with four major categories and 3 partners involved.
 
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA Connect IoT - Solution Architecture.svg" width="200" title="OPTIGA Connect IoT - Solution Architecture">
 
+Fig.: OPTIGA™ Connect IoT - Solution Architecture<br>
 
 Therefore please help us by linking your issues to these four major categories:
 
