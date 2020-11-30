@@ -61,7 +61,17 @@ The kit comes with 7 pcs of OPTIGA™ Connect IoT with predefined dataplan worki
 tbd. picture of Samples Kit
 
 ### OPTIGA™ Connect IoT Evaluation Board
-picture of Evaluation Kit
+Enables customer to verify/operate OPTIGA™ Connect IoT in combination with a cellular modem available as mini PCIe form factor<br>
+
+* LTE modem shield only
+* Incl. OPTIGA™ Connect IoT VQFN-8 soldered to the board
+* 3FF/Micro-SIM card holder 
+* Switch between SIM/eSIM
+* Connects to host via 40-pin Raspberry Pi header or Micro-USB
+* Optional: Footprint to add OPTIGA™ Trust X/M
+
+
+tbd. picture of Evaluation Kit
 
 
 ## Documentation
