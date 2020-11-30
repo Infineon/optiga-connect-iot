@@ -13,7 +13,7 @@ File an issue to ask a question.
 If you are facing an issue with the OPTIGA™ Connect IoT OC2321 solution please create a new issue.
 
 ### Suggest Enhancements
-If you want that the next generation of the starter kit has a certain feature please create a new issue. Such an enchancement could be a new command, other interfaces (e.g. USB), form factors, etc.
+If you want that the next generation of the OPTIGA™ Connect IoT OC2321 solution has a certain feature please create a new issue. Such an enchancement could be new functionalities, other interfaces, form factors, tools etc.
 
 ### Help to Resolve Issues
 You know the answer to an open issue? Great! Please share your knowledge and help to resolve the issue.
