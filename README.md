@@ -59,7 +59,7 @@ The kit comes with 7 pcs of OPTIGA™ Connect IoT with predefined dataplan worki
 * 6 month validity from first network connect on
 * 150 countries worldwide coverage (Americas, APAC and EMEA)
 
-tbd. picture of Samples Kit
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-Samples_Kit_2.png" width="400" title="OPTIGA Connect IoT - Samples Kit">
 
 ### OPTIGA™ Connect IoT Evaluation Board
 Enables customer to verify/operate OPTIGA™ Connect IoT in combination with a cellular modem available as mini PCIe form factor<br>
