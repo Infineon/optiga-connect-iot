@@ -71,7 +71,7 @@ Enables customer to verify/operate OPTIGA™ Connect IoT in combination with a c
 * Connects to host via 40-pin Raspberry Pi header or Micro-USB
 * Optional: Footprint to add OPTIGA™ Trust X/M
 
-tbd. picture of Evaluation Kit
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-LTE_Shield_Bot_V2.png" height="300" title="OPTIGA Connect IoT - Evaluation Board - Bottim">   <img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-LTE_Shield_Top_V2.png" height="300" title="OPTIGA Connect IoT - Evaluation Kit - Top">
 
 ### Card Adapter V3.7 VQFN8
 
