@@ -2,7 +2,7 @@
 
 ## Infineon eSIM IoT Solution
 
-<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-VQFN8.png" width="200" title="OPTIGA Connect - VQFN8 package">
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-VQFN8.png" width="250" title="OPTIGA Connect - VQFN8 package">
 
 OPTIGA™ Connect IoT is an embedded SIM (eUICC) turnkey solution that
 enables cellular connectivity at scale for IoT devices.
@@ -80,8 +80,8 @@ In this configuration the card adapter is assembled with a<br>
 * VQFN-8 test socket
 * Jumper and test pins<br>
 
-<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-CardAdaptV3.7VQFN8.png" height="250" title="OPTIGA Connect IoT - Card Adapter V3.7 VQFN8 version">   
-<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-CardAdaptV3.7VQFN8_det.png" height="250" title="OPTIGA Connect IoT - Card Adapter V3.7 VQFN8 socket">
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-CardAdaptV3.7VQFN8.png" height="230" title="OPTIGA Connect IoT - Card Adapter V3.7 VQFN8 version">   
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-CardAdaptV3.7VQFN8_det.png" height="230" title="OPTIGA Connect IoT - Card Adapter V3.7 VQFN8 socket">
 
 ### SIM Cable Adapter Kit
 
