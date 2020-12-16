@@ -107,7 +107,7 @@ For reporting `technical issues` or proposing `new features`, please create a ne
 
 > Before considering submitting a new issue please check out the [OPTIGA™ Connect IoT - Wiki](https://github.com/Infineon/optiga-connect-iot/wiki)
 
-> When submitting a new issue please be aware that OPTIGA™ Connect IoT is a solution with four major categories and 3 partners involved.
+> When submitting a new issue please be aware that OPTIGA™ Connect IoT is a solution with four major categories and 2 partners involved.
 
 <img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA Connect IoT - Solution Architecture.svg" width="250" title="OPTIGA Connect IoT - Solution Architecture">
 
