@@ -59,7 +59,7 @@ The kit comes with 7 pcs of OPTIGA™ Connect IoT with predefined dataplan worki
 * 6 month validity from first network connect on
 * 150 countries worldwide coverage (Americas, APAC and EMEA)
 
-Note: For all 7 eSIMs included in the Kit a total of 70 MB is available, resulting in an average of 10 MB per item. The weighting is up to you.
+(*) For all 7 eSIMs included in the Kit a total of 70 MB is available, resulting in an average of 10 MB per item. The weighting between the 7 eSIMs is up to you.
 
 <img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-Samples_Kit_2.png" height="300" title="OPTIGA Connect IoT - Samples Kit">   <img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-Samples_Kit_3b.png" height="300" title="OPTIGA Connect IoT - Samples Kit Details">
 
