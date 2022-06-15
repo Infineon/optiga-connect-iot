@@ -83,8 +83,8 @@ In this configuration the card adapter is assembled with a<br>
 * VQFN-8 test socket
 * Jumper and test pins<br>
 
-<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-CardAdaptV3.7VQFN8.png" height="230" title="OPTIGA Connect IoT - Card Adapter V3.7 VQFN8 version">   
-<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-CardAdaptV3.7VQFN8_det.png" height="230" title="OPTIGA Connect IoT - Card Adapter V3.7 VQFN8 socket">
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-SP000416068_CardAdaptA3.6VQFN8.1.png" height="230" title="OPTIGA Connect IoT - Card Adapter V3.x VQFN8 version">   
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-CardAdaptV3.7VQFN8_det.png" height="230" title="OPTIGA Connect IoT - Card Adapter V3.x VQFN8 socket">
 
 ### SIM Cable Adapter Kit
 
