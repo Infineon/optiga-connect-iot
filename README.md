@@ -80,7 +80,7 @@ Enables customer to verify/operate OPTIGA™ Connect IoT in combination with a c
 
 In this configuration the card adapter is assembled with a<br>
 
-* VQFN-8 test socket
+* VQFN-8 Zero Force Insertion (ZIF) test socket
 * Jumper and test pins<br>
 
 <img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-SP000416068_CardAdaptA3.6VQFN8.1.png" height="230" title="OPTIGA Connect IoT - Card Adapter V3.x VQFN8 version">   
@@ -88,12 +88,21 @@ In this configuration the card adapter is assembled with a<br>
 
 ### SIM Cable Adapter Kit
 
-Add-on for Card Adapter V3.x<br>
+Add-on for Card Adapter V3.x <br>
+Enables a connection from an OPTIGA™ Connect IoT inserted in the ZIF-socket to a 2FF, 3FF or 4FF SIM card holder<br>
 
-Allows to connect to 2FF, 3FF and 4FF SIM card holder<br>
-Includes 5 pcs. of adapters to be attached to Card Adapter V3.x<br>
+The kit includes 5 variants of SIM adapters to be attached to Card Adapter V3.x via its female 8-pin header<br>
+You get:
+* Mini-SIM  (2FF, 0 deg)
+* Mini-SIM  (2FF, 90 deg)
+* Micro-SIM (3FF, 0 deg)
+* Micro-SIM (3FF, 180 deg)
+* Nano-SIM  (4FF, 0 deg)
 
-tbd. picture of SIM Adapter Kit
+Note: The RJ45 and SMB coax cable are not relevant for eSIM
+
+
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA Connect IoT-SIM_Cable_Adapter_Kit.png" height="600" title="OPTIGA Connect IoT - SIM Cable Adapter Kit">
 
 ## Documentation
 
