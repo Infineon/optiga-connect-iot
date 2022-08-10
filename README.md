@@ -36,9 +36,13 @@ eSIM operating system and pre-loaded bootstrap connectivity.
 * GPS Tracker
 
 ## Table of Content
+  * [What's new?](#whats-new)
   * [Getting Started](#getting-started)
   * [Documentation](#documentation)
   * [Contributing](#contributing)
+  
+## What's new?
+  * [Modem compatibility list](https://github.com/Infineon/optiga-connect-iot/wiki/Modem-compatibility-list) added in [Wiki](https://github.com/Infineon/optiga-connect-iot/wiki) section
 
 ## Getting Started
 When starting to evaluate Infineons OPTIGA™ Connect IoT solution as a proposal you might want to follow these steps:<br>
