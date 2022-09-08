@@ -1,4 +1,4 @@
-# OPTIGA™ Connect IoT OC2321
+# OPTIGA™ Connect IoT
 
 ## Infineon eSIM IoT Solution
 
@@ -110,7 +110,7 @@ Note: The RJ45 and SMB coax cable are not relevant for eSIM
 
 ## Documentation
 
-For the Datasheet, Product Brief and a Quickstarter Guide please visit our [OPTIGA™ Connect IoT OC2321 product website](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-connect/optiga-connect-iot/#!documents)<br>
+For the Datasheet, Product Brief and a Quickstarter Guide please visit our [OPTIGA™ Connect IoT product website](https://www.infineon.com/cms/en/product/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-connect/optiga-connect-iot/#!documents)<br>
 Here the direct links to<br>
 
 * [DataSheet](https://www.infineon.com/dgdl/Infineon-Datasheet_OPTIGA_Connect_IoT-DataSheet-v01_00-EN.pdf?fileId=5546d462749a7c2d01749b3873b90f57)
