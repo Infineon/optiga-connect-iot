@@ -46,8 +46,8 @@ eSIM operating system and pre-loaded bootstrap connectivity.
   * [Modem compatibility list](https://github.com/Infineon/optiga-connect-iot/wiki/Modem-compatibility-list) updated in [Wiki](https://github.com/Infineon/optiga-connect-iot/wiki) section
   * [Modem SIM detection pin](https://github.com/Infineon/optiga-connect-iot/wiki/Modem-SIM-detection-pin) added in [Wiki](https://github.com/Infineon/optiga-connect-iot/wiki) section
   * [Modem troubleshooting guide](https://github.com/Infineon/optiga-connect-iot/wiki/Modem-troubleshooting-guide) added in [Wiki](https://github.com/Infineon/optiga-connect-iot/wiki) section
-  * [Modem configuration steps](https://github.com/Infineon/optiga-connect-iot/wiki/Modem-configuration-steps)added in [Wiki](https://github.com/Infineon/optiga-connect-iot/wiki) section
-  * PCB design data for OC2321 and OC2322 added [PCB-Design](https://github.com/Infineon/optiga-connect-iot/tree/master/support/PCB-Design)
+  * [Modem configuration steps](https://github.com/Infineon/optiga-connect-iot/wiki/Modem-configuration-steps) added in [Wiki](https://github.com/Infineon/optiga-connect-iot/wiki) section
+  * [PCB-Design Data](https://github.com/Infineon/optiga-connect-iot/tree/master/support/PCB-Design) for OC2321 and OC2322 added.
 
 ## Getting Started
 When starting to evaluate Infineons OPTIGA™ Connect IoT solution as a proposal you might want to follow these steps:<br>
