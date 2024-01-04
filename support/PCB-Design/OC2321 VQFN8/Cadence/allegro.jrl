@@ -1,0 +1,21 @@
+\t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:03)     Journal start - Thu Jun 22 17:56:54 2023
+\t (00:00:03)         Host=ZOT-LIB-30 User=Prasanth Pid=6768 CPUs=4
+\t (00:00:03) 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 995
+\i (00:00:06) trapsize 968
+\i (00:00:06) trapsize 1000
+\i (00:00:06) trapsize 810
+\i (00:00:06) trapsize 1728
+\i (00:00:06) generaledit 
+\i (00:00:07) open 
+\i (00:00:11) fillin "K:\09 Lib\PROJECTS\Infineon\Task Tracker Parts\Conversion\INP\2023\Jun-23\22June\IKY120N65EH7\Cadence\IFX-PG-TO247-4-U10-1.dra"
+\i (00:00:11) cd "K:\09 Lib\PROJECTS\Infineon\Task Tracker Parts\Conversion\INP\2023\Jun-23\22June\IKY120N65EH7\Cadence"
+\t (00:00:11) Opening existing design...
+\i (00:00:11) trapsize 745
+\i (00:00:11) trapsize 725
+\i (00:00:11) trapsize 745
+\i (00:00:11) trapsize 946
+\i (00:00:11) trapsize 946
+\t (00:00:11)     Journal end - Thu Jun 22 17:57:02 2023
