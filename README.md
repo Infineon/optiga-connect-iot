@@ -60,18 +60,16 @@ When starting to evaluate Infineons OPTIGA™ Connect IoT solution as a proposal
 7. Download the [Quickstarter Guide](https://www.infineon.com/dgdl/Infineon-Quick_Start_Guide_OPTIGA_Connect_IoT-AdditionalProductInformation-v01_00-EN.pdf?fileId=5546d46274cf54d50174da052db12212)
 
 ### OPTIGA™ Connect IoT SAMPLE KIT
-The kit comes with 7 pcs of OPTIGA™ Connect IoT with predefined dataplan working out of the box for instant trials.<br>
+The kit comes with 5 pcs of OPTIGA™ Connect IoT with predefined dataplan working out of the box for instant trials.<br>
 
 * 5 pcs VQFN-8/MFF2
-* 2 pcs ID1 Cards (multi form factor, 2FF, 3FF, 4FF)
-* 10 MB of connectivity per eSIM (*)
+* 70 MB of connectivity (*)
 * 6 month validity from first network connect on
 * 150 countries worldwide coverage (Americas, APAC and EMEA)
 
-(*) For all 7 eSIMs included in the Kit a total of 70 MB is available, resulting in an average of 10 MB per item.<br> 
-    The weighting between the 7 eSIMs is up to you.
+(*) For all eSIMs included in the Kit, a combined total of 70 MB is available.<br> 
 
-<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-Samples_Kit_2.png" height="300" title="OPTIGA Connect IoT - Samples Kit">   <img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-Samples_Kit_3b.png" height="300" title="OPTIGA Connect IoT - Samples Kit Details">
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-Samples_Kit_2a.png" height="300" title="OPTIGA Connect IoT - Samples Kit">   <img src="https://github.com/Infineon/Assets/blob/master/Pictures/OPTIGA_Connect_IoT/OPTIGA_Connect_IoT-Samples_Kit_3c.png" height="300" title="OPTIGA Connect IoT - Samples Kit Details">
 
 ### OPTIGA™ Connect IoT Evaluation Board
 Enables customer to verify/operate OPTIGA™ Connect IoT in combination with a cellular modem available as mini PCIe form factor<br>
